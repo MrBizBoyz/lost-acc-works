@@ -1,0 +1,31 @@
+body{
+  background-image: url("http://1.bp.blogspot.com/-gcrGJzu7cLw/TcR5dXOF6uI/AAAAAAABUIE/d8VlyOzWJzk/s400/mothers-day-background.gif");
+}
+.col-6{
+border-image: url("http://cur.glitter-graphics.net/pub/3165/3165843vi8pcpka3l.gif");
+}
+
+.row{
+
+margin-top: 2% ;
+margin-bottom: 2% ;
+/*height: 50% ;*/
+}
+
+
+  .text{
+   border: 20px solid transparent;
+   background-color: white ;
+   border-image: url("http://cur.glitter-graphics.net/pub/3165/3165843vi8pcpka3l.gif") 50 round;
+
+   margin-top: 2% ;
+   margin-bottom: 2% ;
+  }
+
+
+  .img{
+    /*height: 80% ;*/
+    width: 50% ;
+    margin-top: 2% ;
+    margin-bottom: 2% ;
+  }

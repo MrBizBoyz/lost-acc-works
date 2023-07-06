@@ -1,0 +1,16 @@
+body{
+  /* background-image: url("http://www.lovethispic.com/uploaded_images/338690-Crazy-Jack-O-Lantern-Happy-Halloween-Gif.gif"); */
+
+
+
+}
+
+#canvas{
+  width: 50%;
+  margin : auto;
+}
+
+
+#text{
+  border-soild:red;
+}

@@ -1,0 +1,32 @@
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU2Ca-LBSoKMe9SEwkmNy3GPlQuPX-S_wTjm_g1pqv2x4OrLBz");
+}
+
+#h1{
+  border-style: solid;
+  background-color:  lightGreen;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+#tb{
+  border-style: solid;
+  background-color:  lightGreen;
+  font-size: 50px;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+table, th, td{
+  border-style: solid;
+
+
+}
+
+
+#input{
+  text-align: center;
+  margin: auto;
+}

@@ -1,0 +1,15 @@
+body{
+  background-image: url("https://img00.deviantart.net/da5e/i/2011/322/3/3/genie_background_by_nauticalacronym-d4glrjc.jpg");
+}
+
+.comboBox{
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+
+#h1{
+  border-radius: 25%;
+  background-color: white;
+}

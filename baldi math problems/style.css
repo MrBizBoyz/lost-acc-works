@@ -1,0 +1,13 @@
+body{
+  background-image: url("https://i.ytimg.com/vi/o9lAPQvwYWE/maxresdefault.jpg");
+}
+
+
+.Math{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    border-style: solid;
+    background-color:  lightGreen;
+
+}

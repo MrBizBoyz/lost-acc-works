@@ -1,0 +1,21 @@
+.box{
+  text-align: center;
+   border: solid;
+   width: 50%;
+   margin:auto;
+   margin-top: 3%;
+     background-color: rgba(255, 255, 255, 0.7);
+
+ }
+
+
+body{
+       background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLc-riblCdnDkbRMDfuaIGd5yUGji-7z2M7Zg6oWyI0q1RcgY");
+}
+
+.box:hover{
+  box-shadow: 10px 10px;
+   href="https://www.w3schools.com"https://www.youtube.com/watch?v=u3W97DqI8fQ"
+  Try it Yourself »
+
+}

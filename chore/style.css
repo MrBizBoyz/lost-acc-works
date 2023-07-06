@@ -1,0 +1,21 @@
+.row{
+  border: solid 1px;
+margin-top: 3% ;
+ background-color: white;
+}
+
+
+.col{
+  padding-top: 3%;
+}
+
+
+body{
+  background-image: url("https://image.slidesharecdn.com/ashhouseholdchores-151208055806-lva1-app6892/95/household-chores-teaching-esl-1-638.jpg?cb=1449554336");
+
+}
+
+
+a:hover {
+    background-color: yellow;
+}
