@@ -1,0 +1,19 @@
+body{
+  background-image: url("http://images.pond5.com/coins-rain-footage-010985636_prevstill.jpeg");
+}
+
+#p{
+    border-style: solid;
+    background-color: blue;
+}
+
+
+
+
+#change{
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  border-style: solid;
+  background-color:  white;
+}
